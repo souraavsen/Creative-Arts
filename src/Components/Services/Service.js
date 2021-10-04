@@ -34,6 +34,7 @@ const Service = (props) => {
           <span className='font-semibold text-green-700 text-xl'> ${fees}</span>{" "}
           <span className='font-semibold text-green-700'>/Month</span>
         </p>
+        <button className='w-36 mx-auto text-white font-semibold my-6 py-2 px-4 bg-green-500 rounded-full'>Get Started</button>
       </div>
     </div>
   );
