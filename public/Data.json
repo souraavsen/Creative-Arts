@@ -3,8 +3,9 @@
     "id": 1,
     "service_name": "Kid's Playground",
     "img": "https://image.freepik.com/free-vector/kids-painting-banner_29937-4830.jpg",
-    "description": "A perfect course for the kid to start their journey. Its a place to introduce you children with drawing, shape and also colors. This the very bigging.",
+    "description": "A perfect course for the kid to start their journey. Its a place to introduce you children with drawing, shape and also colors. This is the very begining to be a amazing artist.",
     "days": "Mon-Wed",
+    "time": "1:00 pm – 3:00 pm",
     "fees": "59"
   },
   {
@@ -13,6 +14,7 @@
     "img": "https://www.fastweb.com/uploads/article_photo/photo/2038400/crop635w_Doodle_4_Google_Contest.jpg",
     "description": "A doodle is a drawing made while a person's attention is otherwise occupied. This the most fun things to do as an artist. A perfect class to start to be a great artist.",
     "days": "Tue-Fri",
+    "time": "9:00 am – 11:00 am",
     "fees": "30"
   },
   {
@@ -21,22 +23,25 @@
     "img": "https://cms-assets.tutsplus.com/cdn-cgi/image/width=630/uploads/users/346/posts/31135/image/pencil14.jpg",
     "description": "sketching the most pationate factor of drawing. Besides, this is one of the most defficult sectors also. To them easy is our responsibility. Choice is yours",
     "days": "Mon-Wed",
+    "time": "12:00 am – 2:00 pm",
     "fees": "69.99"
   },
   {
     "id": 4,
     "service_name": "Super Animator",
-    "img": "https://images.template.net/wp-content/uploads/2015/04/Feature-Image3.jpg",
-    "description": "Animation is not the art of making drawings move, but the art of drawing movement. Based on the persistence of vision, animation, like all film, is an illusion of fluid movement.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDCUVICD_FubSkLhRx6OttMyJNQA8TByPLg&usqp=CAU",
+    "description": "Animation is not the art of making drawings move, but the art of drawing movement. Based on the persistence of vision, animation,is an illusion of fluid movement.",
     "days": "Mon-Wed",
+    "time": "10:00 am – 1:00 pm",
     "fees": "59"
   },
   {
     "id": 5,
     "service_name": "Teen Clube",
-    "img": "dio-picture-id1136806587?k=20&m=1136806587&s=612x612&w=0&h=WoX-l5-A5ab7ANq99sl18QYIffSfZTxFREWotRO9AIo=",
-    "description": "A entusiast biggener can start this one bliend. If anyone has miniaml drawing knowledge.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJWysgR2iiNn_RVOhfqvJXjk4KRCgZvzFmw&usqp=CAU",
+    "description": "Drawing is a fundamental object of creativity in the process of re-construction and change typical of this period. A entusiast biggener can start this one bliend. If anyone has miniaml drawing knowledge.",
     "days": "Sat,Mon,Wed",
+    "time": "3:00 pm – 5:45 pm",
     "fees": "45.99"
   },
   {
@@ -45,6 +50,7 @@
     "img": "https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/608x608/products/26732/247047/Oil-Painting-Animal-Wall-Art-Pictures-For-Living-Room-Home-Decor-Canvas-Painting-The-Two-Running__41636.1550753241.jpg?c=2",
     "description": "A freehand drawing is drawn without using instruments such as a ruler or a pair of compasses. You need some perfect knowledges of pencil strokes for free hand.",
     "days": "Thur-Sun",
+    "time": "1:00 pm – 4:45 pm",
     "fees": "59"
   },
   {
@@ -53,7 +59,7 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzIitiSx3L5Z0KHkkundu2-xFu1c-RpqX5cA&usqp=CAU",
     "description": "Cartoon, originally, and still, a full-size sketch or drawing used as a pattern for a tapestry, painting, mosaic, or other graphic art form, but also, since the early 1840s.",
     "days": "Mon-Wed",
-    "duration": "1.5",
+    "time": "10:00 am – 1:00 pm",
     "fees": "59"
   },
   {
@@ -62,7 +68,7 @@
     "img": "https://www.liveabout.com/thmb/OkG9GiuiBMCh56zkE1zTXrUUNto=/1333x1000/smart/filters:no_upscale()/GettyImages-667156305-59befb3daf5d3a00102437f8.jpg",
     "description": "Pofessional artists convey a specific thought or feeling through artistic media such as photography, painting, sculpting and illustration.",
     "days": "Mon-Fri",
-    "duration": "3",
+    "time": "1:00 pm – 4:45 pm",
     "fees": "99"
   },
   {
@@ -71,7 +77,7 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tWma07vBgzyauxaRi3PKDOXLpdg2SKmKlg&usqp=CAU",
     "description": "A portrait artist captures the intimate likeness of a person on paper, canvas, or another surface, as a sculpture, photograph, painting, or another medium altogether.",
     "days": "Mon-Fri",
-    "duration": "2.5",
+    "time": "6:00 pm – 8:00 pm",
     "fees": "79"
   }
 ]
