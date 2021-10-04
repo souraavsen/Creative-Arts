@@ -2,6 +2,8 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 const NotFound = () => {
+
+    // this Component is for the wrong routes
     return (
         <div>
             <div className='flex flex-col items-center w-7/12 py-24 mx-auto mt-28 rounded-md bg-gray-200'>

@@ -1,6 +1,7 @@
 import React from "react";
 
 const Service = (props) => {
+  // destructing props
   const { service_name, img, description, days, time, fees } = props.service;
 
   return (

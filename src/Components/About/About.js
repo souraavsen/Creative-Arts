@@ -11,13 +11,14 @@ import image8 from "../Images/art14.jpeg";
 
 const About = () => {
     return (
-      <div className='pb-12'>
-        <h1 className='text-6xl text-green-500 text-center pb-8 pt-16 font-semibold font_akronim'>
+      <div className='pb-12 bg-gray-100'>
+        {/* Main About */}
+        <h1 className='text-6xl  text-green-500 text-center pb-8 pt-16 font-semibold font_akronim'>
           <span className='text-black'>About</span> Create Arts
         </h1>
-        <div className='container mx-auto mt-10 mb-16 flex justify-between items-center'>
+        <div className='w-11/12 px-8 py-12 bg-white mx-auto mt-10 mb-16 flex justify-between items-center'>
           <div className='w-1/2'>
-            <img src={aboutImage} width="90%" alt='' />
+            <img src={aboutImage} width='90%' alt='' />
           </div>
           <div className='w-1/2'>
             <p className='text-justify'>
@@ -42,22 +43,25 @@ const About = () => {
             </p>
           </div>
         </div>
-        <h1 className='text-6xl text-green-500 text-center pt-16 pb-16 font-semibold font_akronim'>
-          <span className='text-black'>Student's</span> Creation
-        </h1>
 
-        <div className='container mx-auto grid grid-cols-3 gap-2 mb-20'>
-          <img src={image1} className='border-2 border-black m-auto' alt="" />
-          <img src={image2} className='border-2 border-black m-auto' alt="" />
-          <img src={image3} className='border-2 border-black m-auto' alt="" />
-          <img src={image7} className='border-2 border-black m-auto' alt="" />
-          <img src={image6} className='border-2 border-black m-auto' alt="" />
-          <img src={image1} className='border-2 border-black m-auto' alt="" />
-          <img src={image4} className='border-2 border-black m-auto' alt="" />
-          <img src={image5} className='border-2 border-black m-auto' alt="" />
-          <img src={image8} className='border-2 border-black m-auto' alt="" />
+        {/* Students art's galary */}
+        <div>
+          <h1 className='text-6xl text-green-500 text-center pt-16 pb-16 font-semibold font_akronim'>
+            <span className='text-black'>Student's</span> Creation
+          </h1>
+
+          <div className='container mx-auto grid grid-cols-3 gap-2 mb-20'>
+            <img src={image1} className='border-2 border-black m-auto' alt='' />
+            <img src={image2} className='border-2 border-black m-auto' alt='' />
+            <img src={image3} className='border-2 border-black m-auto' alt='' />
+            <img src={image7} className='border-2 border-black m-auto' alt='' />
+            <img src={image6} className='border-2 border-black m-auto' alt='' />
+            <img src={image1} className='border-2 border-black m-auto' alt='' />
+            <img src={image4} className='border-2 border-black m-auto' alt='' />
+            <img src={image5} className='border-2 border-black m-auto' alt='' />
+            <img src={image8} className='border-2 border-black m-auto' alt='' />
+          </div>
         </div>
-
       </div>
     );
 }

@@ -1,7 +1,10 @@
 import React from "react";
 
 const HomeService = (props) => {
-  const { service_name, img, description } = props.service;
+  // destructing props
+  const { service_name, img } = props.service;
+
+  // this components os for showing key services in homepage
   return (
     <div className='w-64 flex flex-col my-8 bg-white shadow-lg px-8 py-4 -mt-6 hover:bg-gray-50 cursor-pointer rounded-md'>
       <img
@@ -10,9 +13,6 @@ const HomeService = (props) => {
         alt=''
       />
       <h4 className='text-xl font-semibold py-4 text-center'>{service_name}</h4>
-      {/* <p className='text-justify overflow-ellipsis overflow-hidden'>
-        {description}
-      </p> */}
     </div>
   );
 };
