@@ -1,6 +1,6 @@
 # Creative Arts
 
-Livesite Link: [https://creative-arts.netlify.app/](https://creative-arts.netlify.app/).
+Livesite Link: [https://creative-arts.netlify.app/](https://creative-arts.netlify.app/)
 
 ## About Creative Arts
 * Creative Arts is a educational plartform where people can enhance their drawing skils.
