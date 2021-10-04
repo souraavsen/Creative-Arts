@@ -5,7 +5,7 @@ import '../Custom.css'
 
 const Header = () => {
   return (
-    <div className='bg-black bg-opacity-75 sticky top-0'>
+    <div className='bg-black bg-opacity-75 sticky top-0 z-50'>
       <div className='w-5/6 mx-auto flex items-center justify-between py-2 text-white'>
         {/* Link is for changing routes without reloading */}
         <Link to='/'>
