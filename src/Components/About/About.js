@@ -16,7 +16,7 @@ const About = () => {
         <img src={aboutHeader} className='w-screen -mt-16' alt="" />
         {/* Main About */}
         <h1 className='text-6xl  text-green-500 text-center pb-8 pt-16 font-semibold font_akronim'>
-          <span className='text-black'>About</span> Create Arts
+          <span className='text-black'>About</span> Creative Arts
         </h1>
         <div className='w-11/12 px-8 py-12 bg-white mx-auto mt-10 mb-16 flex justify-between items-center'>
           <div className='w-1/2'>

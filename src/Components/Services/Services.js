@@ -11,8 +11,8 @@ const Services = () => {
     <div>
       <img src={serviceheader} className='-mt-16' alt='' />
       <div className=' bg-gray-100 pt-4 pb-16'>
-        <h1 className='text-6xl text-green-500 text-center py-8 font-semibold font_akronim'>
-          Full Time Courses
+        <h1 className='text-6xl text-center py-8 font-semibold font_akronim'>
+          Full Time <span className='text-green-500'>Courses</span>
         </h1>
 
         <div className='flex flex-col item-center'>
