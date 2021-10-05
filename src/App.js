@@ -1,4 +1,5 @@
 import "./Components/Custom.css";
+// For react router
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 // all components
 import Header from "./Components/Header/Header";
@@ -15,6 +16,7 @@ function App() {
       {/* Router for defining routes */}
       <Router>
         <div>
+          {/* Header section */}
           <Header></Header>
           {/* swithch for change routes for different address */}
           <Switch>
@@ -31,10 +33,12 @@ function App() {
             <Route path='/features'>
               <Featuers></Featuers>
             </Route>
+            {/* for handeling unexpected routes */}
             <Route path='*'>
               <NotFound></NotFound>
             </Route>
           </Switch>
+          {/* Footer section */}
           <Footer></Footer>
         </div>
       </Router>
