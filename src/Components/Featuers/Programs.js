@@ -44,26 +44,31 @@ const Programs = () => {
           <div className='w-5/6 mx-auto mt-10 mb-16 flex justify-between items-center'>
             <div className='w-1/2'>
               <h2 className='text-2xl font-semibold pb-4'>
-                An Indian in Japan | Pallavi Aiyar in conversation with Namita
-                Devidayal
+                HOST YOUR PRIVATE PAINT AND SIP EVENT WITH US!
               </h2>
               <p className='text-green-800 font-semibold pb-2'>
                 <i class='far fa-clock'></i> Wed, Oct 20, 2021 6:00 PM +06
               </p>
               <p className='text-justify'>
-                How is Tokyo, a city of thirty million people, so safe that
-                six-year-old children commute to school on their own? Why are
-                there no trashcans in Japanese cities? Are there really
-                seventy-two seasons in the country? Why are Ganesha idols in
-                Japanese temples hidden from public view?
+                A creative painting twist to corporate team building events,
+                birthday parties, bachelorette parties, holiday parties, and so
+                much more! Whatever the occasion, Painting and Vino have you
+                covered! It's our goal to craft your Private Paint and Sip Event
+                around you. Making sure it's at the right place, at the right
+                time, and is the perfect sip and paint activity to meet your
+                needs. We specialize in organizing team-building events for
+                businesses. Make sure you reach out to us for a FREE quote and
+                let us plan the perfect holiday party or team-building event for
+                your business.
                 <br />
-                Globe-trotting journalist Pallavi Aiyar moves to Japan and takes
-                an in-depth look at the island country including its culinary,
-                sanitary and floral idiosyncrasies. Steering through the many
-                (mis)adventures that come from learning a new language, imbibing
-                new cultural etiquette, and asking difficult questions about
-                race, Aiyar explores why Japan and India find it hard to work
-                together despite sharing a long civilizational history.
+                We offer both virtual painting parties and in-person events. Our
+                in-person events are kept to safety standards and can be held
+                anywhere from your home to office, or restaurant of choice.
+                Online painting parties are a great way for corporate teams to
+                connect, families to see each, or friends to reunite from across
+                the globe or as close as next door. Virtual painting parties are
+                a great way to have an exclusive and safe experience with just
+                your group. Click HERE to learn more.
               </p>
             </div>
             <div className='w-5/12'>
