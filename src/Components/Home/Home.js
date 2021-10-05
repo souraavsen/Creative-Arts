@@ -45,7 +45,7 @@ const Home = () => {
       >
         {/* first landing section */}
         <div className='flex flex-col justify-center items-center pt-72'>
-          <h1 className='text-5xl font-semibold text-white'>
+          <h1 className='text-5xl font-semibold text-white font_akronim'>
             Follow Your Pation and Sketch You Own Life.
           </h1>
           <Link

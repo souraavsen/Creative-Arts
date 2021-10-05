@@ -6,7 +6,7 @@ const Service = (props) => {
 
   return (
     <div>
-      <div className='w-80 flex flex-col my-8 bg-white shadow-lg px-8 pt-4 pb-8 hover:bg-gray-50 cursor-pointer rounded-md mx-auto'>
+      <div className='w-11/12 flex flex-col my-8 bg-white shadow-lg px-8 pt-4 pb-8 hover:bg-gray-50 cursor-pointer rounded-md mx-auto'>
         <img
           className='w-40 h-40 rounded-full mx-auto my-2 border-2 border-gray-300'
           src={img}

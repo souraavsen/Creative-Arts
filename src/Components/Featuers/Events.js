@@ -64,7 +64,7 @@ const Events = () => {
           </div>
         </div>
         <button className='w-52 text-white font-semibold mx-auto px-4 mt-12 py-3 bg-green-500 rounded-full '>
-          View More Event
+          View More Events
         </button>
       </div>
     </div>

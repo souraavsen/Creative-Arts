@@ -5,9 +5,8 @@ import eventimg2 from "../Images/sc2.jpeg";
 
 const Programs = () => {
     return (
-      <div>
+      <div className='flex flex-col'>
         <div className='bg-green-100 py-8 px-4 mb-6 shadow-md'>
-
           {/* All individual programs */}
 
           <div className='w-5/6 mx-auto mt-10 mb-16 flex justify-between items-center'>
@@ -20,8 +19,7 @@ const Programs = () => {
                 Artists in Japan
               </h2>
               <p className='text-green-800 font-semibold pb-2'>
-                <i class="far fa-clock"></i> October 5 — Art for
-                Breakfast 2021
+                <i class='far fa-clock'></i> October 5 — Art for Breakfast 2021
               </p>
               <p className='text-justify'>
                 Art for Breakfast is delighted to invite an artist, Etsu Egami,
@@ -50,8 +48,7 @@ const Programs = () => {
                 Devidayal
               </h2>
               <p className='text-green-800 font-semibold pb-2'>
-                <i class="far fa-clock"></i> Wed, Oct 20, 2021 6:00 PM
-                +06
+                <i class='far fa-clock'></i> Wed, Oct 20, 2021 6:00 PM +06
               </p>
               <p className='text-justify'>
                 How is Tokyo, a city of thirty million people, so safe that
@@ -84,8 +81,7 @@ const Programs = () => {
                 “Believe in Hong Kong” Exhibition
               </h2>
               <p className='text-green-800 font-semibold pb-2'>
-                <i class="far fa-clock"></i> Wed, Oct 13, 2021 8:00 PM
-                +06
+                <i class='far fa-clock'></i> Wed, Oct 13, 2021 8:00 PM +06
               </p>
               <p className='text-justify'>
                 Members of Asia Society Hong Kong Center are invited to the
@@ -105,6 +101,9 @@ const Programs = () => {
             </div>
           </div>
         </div>
+        <button className='w-52 text-white font-semibold mx-auto px-4 mt-6 mb-16 py-3 bg-green-500 rounded-full '>
+          View More Programs
+        </button>
       </div>
     );
 }
