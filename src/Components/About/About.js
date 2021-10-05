@@ -2,16 +2,18 @@ import React from 'react'
 import aboutImage from "../Images/art14.jpeg";
 import image1 from "../Images/art12.jpeg";
 import image2 from "../Images/art8.jpeg";
-import image3 from "../Images/art13.jpeg";
+import image3 from "../Images/sc5.jpeg";
 import image4 from "../Images/sc1.jpeg";
 import image5 from "../Images/sc2.jpeg";
 import image6 from "../Images/sc3.jpeg";
 import image7 from "../Images/sc4.jpeg";
 import image8 from "../Images/art14.jpeg";
+import aboutHeader from "../Images/aboutheader.jpg";
 
 const About = () => {
     return (
       <div className='pb-12 bg-gray-100'>
+        <img src={aboutHeader} className='w-screen -mt-16' alt="" />
         {/* Main About */}
         <h1 className='text-6xl  text-green-500 text-center pb-8 pt-16 font-semibold font_akronim'>
           <span className='text-black'>About</span> Create Arts

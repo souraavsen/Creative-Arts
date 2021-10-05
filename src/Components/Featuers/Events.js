@@ -4,7 +4,7 @@ import ecentimg from "../Images/art7.jpeg";
 const Events = () => {
   return (
     <div>
-      <div className='w-5/6 py-16 px-10 bg-white mx-auto mt-10 mb-16 flex flex-col justify-between shadow-md rounded-md'>
+      <div className='w-5/6 py-16 px-10 bg-white mx-auto mb-16 flex flex-col justify-between shadow-md rounded-md'>
         <div className='flex justify-between items-center'>
           <div className='w-1/2'>
             <img

@@ -25,7 +25,7 @@ const Home = () => {
   // handeling background image chnage
   useEffect(() => {
     setInterval(() => {
-      if (i == 5) {
+      if (i === 5) {
         i = 1;
       }
       // changing images in state
